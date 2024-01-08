@@ -3,7 +3,7 @@
 A basic example deployment using the KV store to register and discover services. 
 
 ## Instructions
-Ensure Consul is installed locally, instructions [here|https://developer.hashicorp.com/consul/docs/install].
+Ensure Consul is installed locally, instructions [here](https://developer.hashicorp.com/consul/docs/install).
 
 Start up Consul in development mode: `consul dev`
 
